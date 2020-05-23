@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent=new Intent(MainActivity.this,ExampleActivity.class);
                 startActivity(intent);
                 //add comment2
+                //add comment3
 
             }
         });
